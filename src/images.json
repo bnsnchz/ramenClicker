@@ -1,0 +1,63 @@
+[
+    {
+      "id":1,
+      "image":"./assets/images/ramen1.jpg",
+      "clicked":false,
+      "alt":"ramen1"
+      },   {
+      "id":2,
+      "image":"./assets/images/ramen2.jpg",
+      "clicked":false,
+      "alt":"ramen2"
+      },  {
+      "id":3,
+      "image":"./assets/images/ramen3.jpg",
+      "clicked":false,
+      "alt":"ramen3"
+      },  {
+      "id":4,
+      "image":"./assets/images/ramen4.jpg",
+      "clicked":false,
+      "alt":"ramen4"
+      },  {
+      "id":5,
+      "image":"./assets/images/ramen5.jpg",
+      "clicked":false,
+      "alt":"ramen5"
+      },  {
+      "id":6,
+      "image":"./assets/images/ramen6.jpg",
+      "clicked":false,
+      "alt":"ramen6"
+      },  {
+      "id":7,
+      "image":"./assets/images/ramen7.jpg",
+      "clicked":false,
+      "alt":"ramen7"
+      },  {
+      "id":8,
+      "image":"./assets/images/ramen8.jpg",
+      "clicked":false,
+      "alt":"ramen8"
+      },  {
+      "id":9,
+      "image":"./assets/images/ramen9.jpg",
+      "clicked":false,
+      "alt":"ramen9"
+      },  {
+      "id":10,
+      "image":"./assets/images/ramen10.jpg",
+      "clicked":false,
+      "alt":"ramen1"
+      },  {
+      "id":11,
+      "image":"./assets/images/ramen11.jpg",
+      "clicked":false,
+      "alt":"ramen1"
+      },  {
+      "id":12,
+      "image":"./assets/images/ramen12.jpg",
+      "clicked":false,
+      "alt":"ramen1"
+    }
+  ]
