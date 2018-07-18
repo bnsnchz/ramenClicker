@@ -1,0 +1,29 @@
+body{
+    background-color: #FFBD1A;
+}
+
+img{
+    height:250px;
+    border-radius: 25px;
+}
+
+.wrapper{
+    max-width:960px;
+    margin:auto;
+}
+
+.card{
+    height:250px;
+    padding: 15px;
+    float:left;
+}
+
+.desc{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:20px;
+}
+
+.score, .top-score{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
